@@ -1,0 +1,6 @@
+ In this chapter, we will derive the mathematical model for a two-dimensional fluid-driven fracture propagating in a permeable rock and the Cauchy principal value 
+ integral derived from linear elastic fracture mechanics will be used to model the elasticity of the rock. The presence of the Cauchy principal value integral in the 
+ mathematical formulation poses a challenge in solving the mathematical problem. Thus, it is appropriate to introduce integral equations. Problems having Cauchy 
+ principal value integrals have been solved using a number of methods such as linear spline method, Chebyshev method, finite difference method, Galerkin method, etc. 
+ Several books on singular integral equations have been published. Worth mentioning is the book by Mushkelishvili \cite{musk}. We will begin this chapter by reviewing 
+ integral equations, in particular, singular integral equations; and their method of solution.
